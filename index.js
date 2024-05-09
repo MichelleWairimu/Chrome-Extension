@@ -26,7 +26,7 @@ function render(leads) {
         listItems += `
             <li>
                 <a target='_blank' href='${leads[i]}'>
-                    ${leads[i]}
+                📌${leads[i]}
                 </a>
             </li>
         `
